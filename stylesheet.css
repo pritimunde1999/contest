@@ -1,0 +1,366 @@
+@charset "UTF-8";
+*{
+    background-color: #262626;
+}
+
+header{
+    height: 90px;
+    
+}
+
+button:hover{
+    text-decoration: underline blue;
+}
+
+.griditem{
+    /* Rectangle 18 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 346px;
+height: 391px;
+left: 119px;
+top: 965px;
+
+background: #1F1F1F;
+border: 3px solid #262626;
+border-radius: 20px;
+
+}
+
+.text1{
+    /* Electronics */
+
+position: absolute;
+width: 269px;
+height: 53px;
+left: 146px;
+top: 1001px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 45px;
+
+color: #C4C4C4;
+
+
+}
+
+.text2{
+    /* Rectangle 18 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 346px;
+height: 391px;
+left: 119px;
+top: 965px;
+
+background: #1F1F1F;
+border: 3px solid #262626;
+border-radius: 20px;
+
+}
+
+.knowmore{
+    /* Rectangle 9 */
+
+position: absolute;
+width: 169.44px;
+height: 58px;
+left: 277.65px;
+top: 1278px;
+
+background: #FECB03;
+border-radius: 50px;
+
+}
+
+section{
+    /* Rectangle 1 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 1323px;
+height: 588px;
+left: 59px;
+top: 137px;
+
+background: #262626;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 50px;
+
+}
+.category{
+/* Our Categories */
+
+position: absolute;
+width: 453px;
+height: 76px;
+left: 105px;
+top: 813px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 45px;
+line-height: 68px;
+
+color: #FFFFFF;
+
+
+}
+
+
+#cart{
+  position: absolute;
+  top:156px;
+  left:34px;
+}
+
+#pricetag{
+    position: absolute;
+    top:290px;
+    left:34px;
+}
+
+#payment{
+    position: absolute;
+    top:424px;
+    left:34px;
+}
+
+#paymentT{
+    
+    position: absolute;
+    width: 846px;
+    height: 53px;
+    left: 165px;
+    top: 453px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 48px;
+    
+    color: #C4C4C4;
+    }
+
+#priceT{
+    
+position: absolute;
+width: 846px;
+height: 53px;
+left: 165px;
+top: 319px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 48px;
+
+color: #C4C4C4;
+}
+
+#cartT{
+    /* Rent Out Anything You Want */
+
+
+position: absolute;
+width: 846px;
+height: 53px;
+left: 165px;
+top: 185px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 48px;
+
+color: #C4C4C4;
+}
+
+#h1{
+    /* About Us */
+    
+    position: absolute;
+    width: 335px;
+    height: 53px;
+    left: 46px;
+    top: 41px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 72px;
+    
+    background-color: #262626;
+    color: #FFFFFF;
+    
+    
+}
+
+svg:not(:root) {
+    overflow-clip-margin: content-box;
+    overflow: hidden;
+}
+
+#clock{
+position: absolute;
+left: 1%;
+right: 1.56%;
+top: 1.56%;
+bottom: 1.56%;
+
+height: 281.90625px;
+width: 281.90625px;
+left: 990.55px;
+top: 98.55px;
+border-radius: 10px;
+box-sizing: border-box;
+background-color: #262626;
+}
+
+#logo{
+position: absolute;
+width: 159px;
+height: 72px;
+left: 59px;
+top: 27px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 72px;
+
+color:#FFFFFF;
+}
+
+
+
+header input{
+position: absolute;
+width: 597px;
+height: 53px;
+left: 319px;
+top: 33px;
+
+background: #262626;
+border-radius: 15px;
+}
+
+.flex-container{
+    display: flex;
+    left: 995px;
+    top: 43px;
+}
+
+#login{
+
+position: absolute;
+width: 134px;
+height: 53px;
+left: 958px;
+top: 33px;
+
+background: #262626;
+border-radius: 15px;
+
+}
+
+#login button{
+/* Login */
+
+position: absolute;
+width: 60px;
+height: 32px;
+left: 35px;
+top: 10px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 22px;
+line-height: 33px;
+
+background-color: #262626;
+border: none;
+color: #FFFFFF;
+}
+
+#explore{
+   
+/* Rectangle 2 */
+position: absolute;
+width: 131px;
+height: 53px;
+left: 1125px;
+top: 33px;
+
+background: #262626;
+border-radius: 15px;
+}
+
+
+#explore button{
+/* Explore */
+
+position: absolute;
+width: 82px;
+height: 32px;
+left: 24px;
+top: 10px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 22px;
+line-height: 33px;
+
+background-color: #262626;
+border: none;
+color: #FFFFFF;
+}
+
+#rent{
+
+position: absolute;
+width: 112px;
+height: 53px;
+left: 1280px;
+top: 33px;
+
+background: #262626;
+border-radius: 15px;
+}
+
+#rent button{
+/* Rent */
+
+position: absolute;
+width: 52px;
+height: 32px;
+left: 30px;
+top: 10px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 22px;
+line-height: 33px;
+
+background-color: #262626;
+border: none;
+color: #FFFFFF;
+} 
+
